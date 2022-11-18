@@ -19,5 +19,5 @@ Frequently used as "parts" of block elements, the library components can be reus
 ### Common Elements
 Finally, the library contains some "common" elements.  These common elements include such items as common ports, signals, messages, events, etc. that are used by other library elements and/or can be used by custom model elements as needed.
 
-## Contact
-For questions, comments, or suggestions on the SysMLinJavaLibrary, send an email to sysmlinjava@earthlink.net
+## Contact for Comments, Questions, Suggestions
+Sen questions, comments, or suggestions on the SysMLinJavaLibrary to sysmlinjava@earthlink.net
